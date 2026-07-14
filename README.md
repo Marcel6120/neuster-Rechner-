@@ -1,5 +1,4 @@
-[Envestor_Rechner_updated-2-2-39_fixes_4.html](https://github.com/user-attachments/files/30016865/Envestor_Rechner_updated-2-2-39_fixes_4.html)
-# neuster-Rechner-<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="de">
 <head>
 <meta charset="UTF-8">
